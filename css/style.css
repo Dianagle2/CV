@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+    background-color: #faf3e0;
+    font-family: 'Mali', cursive;
+    font-size: 125%;
+}
+
+h1{
+    font-weight: 700;
+    color: #E27D60;
+}
+
+h2 {
+    margin-bottom: 0px;
+    font-weight: 600;
+    color: #85DCBA;
+}
+h3{
+    margin: 5px auto 5px auto;
+    font-weight: 500;
+    color: #E8A87C;
+}
+
+h4{
+    margin: 5px 20px 5px auto;
+    font-weight: 400;
+    color: #C38D9E;
+}
+
+
+p {
+    margin: 0;
+    font-weight: 300;
+    color: #41B3A3;
+}
+ol{
+    color: #41B3A3;
+}
+
+li{
+    color: #41B3A3;
+}
+
+.middle {
+    margin-left: 20px;
+}
+.personal-pic{
+    float: left;
+    margin: auto 50px auto 20px;
+}
+
+.info-text{
+    text-align: left;
+    padding: 15px;
+}
+.bottom{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #eabf9f;
+    text-align: center;
+    line-height: 2;
+}
+
+.contact{
+    color: #E8A87C;
+    font-weight: 600;
+}
+
+.footer-link {
+    color: #C38D9E;
+    padding: 10px;
+}
+
+a {
+    color: #E27D60;
+    font-weight: 800;
+}
+
+
+hr {
+
+    margin: 50px auto 30px auto;
+    border-color: #E27D60;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px ;
+    width: 10%;
+}
+
+label{
+    color: #41B3A3;
+}
